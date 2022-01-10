@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772189387032",
+    "project_id": "clompetadosalvavidas",
+    "storage_bucket": "clompetadosalvavidas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772189387032:android:4628f4c5a4430fa6c2466d",
+        "android_client_info": {
+          "package_name": "com.example.completadosalvavidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772189387032-m9n9cik42lobcc83muqpvqeqt3857h0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.completadosalvavidas",
+            "certificate_hash": "0de26c6f1ac6cd2855eca36b2f933b7c2d0ce533"
+          }
+        },
+        {
+          "client_id": "772189387032-776rfe7adq9avrhh6v7pat9vsmq9ol3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyQbB9-72rkWuDh9n_Bbn6YfdhAOaVRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772189387032-776rfe7adq9avrhh6v7pat9vsmq9ol3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
